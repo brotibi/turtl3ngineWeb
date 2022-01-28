@@ -1,0 +1,22 @@
+{
+  "name": "turtl3ngineweb",
+  "version": "1.0.0",
+  "description": "just a web graphics library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brotibi/turtl3ngineWeb.git"
+  },
+  "author": "Mobolaji Rotibi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brotibi/turtl3ngineWeb/issues"
+  },
+  "homepage": "https://github.com/brotibi/turtl3ngineWeb#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
